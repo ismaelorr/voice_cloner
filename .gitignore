@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+data/recorded_audio.wav
+data/generated_audio.wav
+env/
